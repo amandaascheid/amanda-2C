@@ -1,15 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Underdog&display=swap');
+:root{
+    --cor-principal: rgb(149, 0, 175);
+    --cor-secundaria: rgb(0, 23, 58);
+    --cor-destaque: rgb(69, 171, 255);
+}
+
 body{
-    background-color: blueviolet
-}
-    
-h1{
-color: blueviolet;
-text-align: center;
-font-family: 'Underdog';
-}
-
-h2{
-color:rgb(184, 136, 255)
-
+    font-family: Underdog&display;
 }
